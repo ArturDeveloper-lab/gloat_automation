@@ -40,7 +40,15 @@ Key Components
 2.Test functions: Functions prefixed with test_ that use pytest assertions to validate
 API responses.
 
-**Conversion Testing Project**
+**Conversion Testing Project UI**
+
+**Setup**
+install python
+install selenium 4.16
+install requests
+install pytest
+install webdriver-manager
+install allure
 
 Description
 
